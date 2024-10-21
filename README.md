@@ -14,11 +14,16 @@ Welcome to the **Snake Game** built with Python and Pygame! 🎮 This is a recre
 
 Here are some screenshots from the game in action! (Replace these paths with actual screenshots of your game.)
 
-![Screenshot 1](./screenshots/snake1.png)
-*The snake is getting longer after eating food!*
+<div style="display: flex; justify-content: space-around;">
+    <img src="./screenshots/snake1.png" width="400" height="400" alt="Snake eating food">
+    <img src="./screenshots/snake2.png" width="400" height="400" alt="Snake hitting walls">
+</div>
 
-![Screenshot 2](./screenshots/snake2.png)
-*Watch out! Don't hit the walls or yourself!*
+<div style="display: flex; justify-content: space-around;">
+    <p>*The snake is getting longer after eating food!*</p>
+    <p>*Watch out! Don't hit the walls or yourself!*</p>
+</div>
+
 
 ## 🛠️ Installation
 
